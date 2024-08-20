@@ -5,7 +5,7 @@ Expensso AI is an intelligent expense management application developed using Swi
 ## Objective
 
 Expensso AI aims to streamline personal finance management by allowing users to log expenses, retrieve past financial data, and visualize spending patterns through a user-friendly interface. The integration of AI-driven functionality and real-time data management ensures an interactive and efficient user experience.
-
+![Landing Page](assets/landing-page.png)
 ## Core Features
 
 - **Expense Logging:** Users can easily log and manage their expenses with an intuitive interface optimized for both iPhone and iPad.
