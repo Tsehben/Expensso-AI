@@ -30,7 +30,7 @@ Check out the [demo video](#) to see Expensso AI in action.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Tsehben/Expensso-AI/](https://github.com/Tsehben/Expensso-AI.git)
+   git clone https://github.com/Tsehben/Expensso-AI.git
 2. Open the project in Xcode.
 3. Install dependencies using Swift Package Manager (SPM).
 4. Run the project on your preferred simulator or device
