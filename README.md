@@ -1,6 +1,7 @@
 # Expensso AI
 
 Expensso AI is an intelligent expense management application developed using Swift and SwiftUI for iPhone and iPad. The app is designed to help users manage their expenses efficiently through natural language interaction, real-time data management, and data visualization.
+![Landing Page](AIAssistant/Images/sender_img.jpg)
 
 ## Objective
 
