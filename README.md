@@ -25,7 +25,7 @@ Expensso AI aims to streamline personal finance management by allowing users to 
 
 ## Demo
 
-Check out the [demo video](#) to see Expensso AI in action.
+Check out the [demo video](https://www.youtube.com/watch?v=Ka4UqnqVV70) to see Expensso AI in action.
 
 ## Installation
 
